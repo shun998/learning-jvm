@@ -18,7 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/chapter14/chapter14.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter15/chapter15.iml" filepath="$PROJECT_DIR$/chapter15/chapter15.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter16/chapter16.iml" filepath="$PROJECT_DIR$/chapter16/chapter16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/learning-jvm.iml" filepath="$PROJECT_DIR$/learning-jvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learning-jvm.iml" filepath="$PROJECT_DIR$/.idea/learning-jvm.iml" />
     </modules>
   </component>
 </project>
